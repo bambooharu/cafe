@@ -18,7 +18,7 @@ function(){
 var windowwidth = window.innerWidth || document.documentElement.clientWidth || 0;
 		if (windowwidth > 768){
 			var responsiveImage = [//PC用の画像
-				{ src: './img/cafe.jpg'},
+				{ src: './img/4f0e629037c47b8499f16d22523ef5ea のコピー.jpg'},
 				{ src: './img/azisai3.JPG'},
 				{ src: './img/kissa.JPG'}
 			];
